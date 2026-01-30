@@ -52,6 +52,7 @@ const RegisterComponent = () => {
           onChange={handleChange}
           required
         />
+
         <br />
 
         <button type="submit">Register</button>
